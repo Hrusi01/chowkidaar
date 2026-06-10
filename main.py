@@ -1,3 +1,4 @@
+import utils.session
 import discord
 from discord.ext import commands
 from config import DISCORD_TOKEN, WATCHED_CHANNEL_ID
